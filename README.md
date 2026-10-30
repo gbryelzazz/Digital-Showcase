@@ -1,96 +1,86 @@
-::: {align="center"}
-# [FROM LAB]{style="color:#ff5a1f;"}
+ 
+<div align="center">
 
-### GABRIEL MOURA --- CREATIVE PORTFOLIO
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:ffb6d9,50:9bc9ff,100:fff0a6&text=GBRYEL&fontColor=111111&fontSize=75&fontAlignY=45&animation=fadeIn&stroke=111111&strokeWidth=1" width="100%" />
 
-**Graphic Design · Motion Design · Video Editing · Web Development**
+### GABRIEL VITOR MOURA
+**Graphic Designer · Motion Designer · Video Editor · Developer**
 
-`<br>`{=html}
+*Transforming ideas into visual experiences.*
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Explore-ff5a1f?style=for-the-badge&logo=firefox&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-Follow-171717?style=for-the-badge&logo=instagram&logoColor=ff5a1f)](https://www.instagram.com/gbreelkk/)
-[![GitHub](https://img.shields.io/badge/GITHUB-Projects-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gbryelzazz)
+[PORTFOLIO](#) · [INSTAGRAM](https://www.instagram.com/gbreelkk/) · [GITHUB](https://github.com/gbryelzazz) · [CONTACT](mailto:gabrielmoura.designer2006@gmail.com)
 
-`<br>`{=html}
+</div>
 
-`CREATIVE THINKING`　 `VISUAL EXPERIMENTS`　 `DIGITAL DESIGN`
-:::
+---
 
-------------------------------------------------------------------------
+### 01 / ABOUT ME
 
-## 01 / ABOUT
+I'm Gabriel, a graphic design student and creative enthusiast interested in visual communication, digital experiences and technology.
 
-Hi, I'm **Gabriel**, a graphic designer interested in visual
-communication, digital experiences and creative experimentation.
+I work across different creative fields, combining design, motion, video editing and web development to create visual projects with identity and purpose.
 
-This portfolio brings together selected work, personal experiments and
-projects across different areas of design.
+Currently exploring new ideas, developing my skills and building my creative portfolio.
 
-> **Turning ideas into visual experiences.**
+### 02 / CREATIVE FIELDS
 
-## 02 / WHAT I DO
+<div align="center">
 
-  -----------------------------------------------------------------------
-  AREA                                FOCUS
-  ----------------------------------- -----------------------------------
-  **Graphic Design**                  Visual communication, layouts and
-                                      digital artwork
+| FIELD | FOCUS |
+|:---|:---|
+| GRAPHIC DESIGN | Visual identity, layouts & digital design |
+| MOTION DESIGN | Animation & visual storytelling |
+| VIDEO EDITING | Editing, composition & storytelling |
+| WEB DEVELOPMENT | Front-end & digital experiences |
+| UI / UX DESIGN | Interfaces & user experience |
 
-  **Motion Design**                   Animation, movement and visual
-                                      storytelling
+</div>
 
-  **Video Editing**                   Editing, rhythm and audiovisual
-                                      content
+### 03 / TOOLS & TECHNOLOGIES
 
-  **Web Development**                 Building and styling digital
-                                      experiences
+<div align="center">
 
-  **UI/UX Design**                    Interfaces, usability and visual
-                                      systems
+**DESIGN & CREATIVE**
 
-  **Digital Marketing**               Creative assets for digital
-                                      communication
-  -----------------------------------------------------------------------
+![Photoshop](https://img.shields.io/badge/Photoshop-111111?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+![Illustrator](https://img.shields.io/badge/Illustrator-111111?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
+![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![After Effects](https://img.shields.io/badge/After_Effects-111111?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-111111?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF)
 
-## 03 / TOOLKIT
+**DEVELOPMENT**
 
-::: {align="center"}
-![Photoshop](https://img.shields.io/badge/Photoshop-171717?style=flat-square&logo=adobephotoshop&logoColor=ff5a1f)
-![Illustrator](https://img.shields.io/badge/Illustrator-171717?style=flat-square&logo=adobeillustrator&logoColor=ff5a1f)
-![After
-Effects](https://img.shields.io/badge/After_Effects-171717?style=flat-square&logo=adobeaftereffects&logoColor=ff5a1f)
-![Premiere
-Pro](https://img.shields.io/badge/Premiere_Pro-171717?style=flat-square&logo=adobepremierepro&logoColor=ff5a1f)
-![Figma](https://img.shields.io/badge/Figma-171717?style=flat-square&logo=figma&logoColor=ff5a1f)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
 
-![HTML5](https://img.shields.io/badge/HTML5-171717?style=flat-square&logo=html5&logoColor=ff5a1f)
-![CSS3](https://img.shields.io/badge/CSS3-171717?style=flat-square&logo=css3&logoColor=ff5a1f)
-![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=flat-square&logo=javascript&logoColor=ff5a1f)
-![GitHub](https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white)
-:::
+</div>
 
-## 04 / THE PORTFOLIO
+### 04 / CURRENTLY
 
-A space to explore my work, creative process and visual direction.
+- Studying Graphic Design.
+- Improving my front-end development skills.
+- Exploring motion design and visual storytelling.
+- Building creative projects and expanding my portfolio.
 
--   **Selected work** --- projects and practical applications.
--   **Visual experiments** --- studies in typography, color, composition
-    and style.
--   **About** --- a little more about me and the way I work.
+### 05 / LET'S CONNECT
 
-## 05 / LET'S CONNECT
+<div align="center">
 
-::: {align="center"}
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-@gbreelkk-ff5a1f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gbreelkk/)
+**Have a project, an idea or just want to talk?**
 
-[![GitHub](https://img.shields.io/badge/GITHUB-@gbryelzazz-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gbryelzazz)
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/gbreelkk/)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/gbryelzazz)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:gabrielmoura.designer2006@gmail.com)
 
-[![Email](https://img.shields.io/badge/EMAIL-LET'S_TALK-171717?style=for-the-badge&logo=gmail&logoColor=ff5a1f)](mailto:gabrielmoura.designer2006@gmail.com)
+**gabrielmoura.designer2006@gmail.com**
 
-`<br>`{=html}
+---
 
-**HAVE AN IDEA? LET'S MAKE IT VISUAL.**
+<sub>DESIGNED WITH CREATIVITY. BUILT WITH PURPOSE.</sub>
 
-`<sub>`{=html}© 2026 Gabriel Moura · Designed with
-curiosity.`</sub>`{=html}
-:::
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:ffb6d9,50:9bc9ff,100:fff0a6" width="100%" />
+
+</div>
