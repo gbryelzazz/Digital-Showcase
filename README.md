@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:ff6b00,100:ff9d42&text=GBRYELWZ&fontColor=ffffff&fontSize=78&fontAlignY=45&animation=fadeIn" width="100%" />
 
-# GABRIEL VITOR MOURA
+# GABRIEL MOURA
 
 **GRAPHIC DESIGNER · MOTION DESIGNER · VIDEO EDITOR · DEVELOPER**
 
