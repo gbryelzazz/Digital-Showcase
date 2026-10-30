@@ -8,7 +8,7 @@
 
 `CREATIVITY` `DESIGN` `TECHNOLOGY`
 
-[PORTFOLIO](SEU_LINK_AQUI) &nbsp;•&nbsp; [INSTAGRAM](https://www.instagram.com/gbreelkk/) &nbsp;•&nbsp; [EMAIL](mailto:gabrielmoura.designer2006@gmail.com)
+[PORTFOLIO](https://gbryelzazz.github.io/Digital-Showcase/) &nbsp;•&nbsp; [INSTAGRAM](https://www.instagram.com/gbreelkk/) &nbsp;•&nbsp; [EMAIL](mailto:gabrielmoura.designer2006@gmail.com)
 
 </div>
 
